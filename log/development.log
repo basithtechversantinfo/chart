@@ -1,0 +1,1159 @@
+Started GET "/" for 127.0.0.1 at 2021-04-29 11:23:08 +0530
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/techversant/.rvm/gems/ruby-3.0.0/gems/railties-6.1.3.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/techversant/.rvm/gems/ruby-3.0.0/gems/railties-6.1.3.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 14.3ms | Allocations: 518)
+Completed 200 OK in 25ms (Views: 17.2ms | ActiveRecord: 0.0ms | Allocations: 4351)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 11:46:49 +0530
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.4ms | Allocations: 300)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /home/techversant/aptana_studio_projet/create_chart/public/packs
+[Webpacker] Hash: e332c6419728fac579d5
+Version: webpack 4.46.0
+Time: 1275ms
+Built at: 29/04/2021 11:46:52 am
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-f826770d917d8a37c1d8.js    125 KiB  application  [emitted] [immutable]  application
+js/application-f826770d917d8a37c1d8.js.map    139 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-f826770d917d8a37c1d8.js js/application-f826770d917d8a37c1d8.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 492 bytes {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 3 hidden modules
+
+  Rendered layout layouts/application.html.erb (Duration: 4205.6ms | Allocations: 14710)
+Completed 200 OK in 4212ms (Views: 4207.4ms | ActiveRecord: 0.0ms | Allocations: 17768)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 11:54:01 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 132)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 8.9ms | Allocations: 8998)
+Completed 200 OK in 11ms (Views: 9.9ms | Allocations: 10260)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 11:54:03 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 10.7ms | Allocations: 2993)
+Completed 200 OK in 13ms (Views: 11.8ms | Allocations: 3438)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 11:58:18 +0530
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.5ms | Allocations: 310)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 78.9ms | Allocations: 19138)
+Completed 200 OK in 86ms (Views: 81.2ms | ActiveRecord: 0.0ms | Allocations: 22294)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 12:07:32 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 17.3ms | Allocations: 13580)
+Completed 200 OK in 19ms (Views: 17.8ms | Allocations: 14027)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 12:09:38 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 16.9ms | Allocations: 13834)
+Completed 200 OK in 18ms (Views: 17.4ms | Allocations: 14276)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 12:11:39 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 11.6ms | Allocations: 14504)
+Completed 200 OK in 12ms (Views: 12.0ms | Allocations: 14942)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 12:14:54 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.5ms | Allocations: 132)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 16.8ms | Allocations: 14839)
+Completed 200 OK in 20ms (Views: 18.7ms | Allocations: 16051)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 12:19:09 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 16.0ms | Allocations: 14508)
+Completed 200 OK in 17ms (Views: 16.4ms | Allocations: 14947)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 12:19:27 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 15.4ms | Allocations: 14995)
+Completed 200 OK in 16ms (Views: 15.8ms | Allocations: 15434)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:13:58 +0530
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 14.6ms | Allocations: 310)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 420.1ms | Allocations: 22360)
+Completed 200 OK in 444ms (Views: 424.3ms | ActiveRecord: 0.0ms | Allocations: 25516)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:15:27 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 33.8ms | Allocations: 14523)
+Completed 200 OK in 36ms (Views: 34.7ms | ActiveRecord: 0.0ms | Allocations: 14967)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:16:05 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 12.2ms | Allocations: 14525)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms | Allocations: 14972)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:16:25 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 18.1ms | Allocations: 14973)
+Completed 200 OK in 19ms (Views: 18.7ms | ActiveRecord: 0.0ms | Allocations: 15419)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:18:03 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 35.5ms | Allocations: 14522)
+Completed 200 OK in 38ms (Views: 36.5ms | ActiveRecord: 0.0ms | Allocations: 14963)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:19:58 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.8ms | Allocations: 133)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 32.6ms | Allocations: 15276)
+Completed 200 OK in 38ms (Views: 36.1ms | ActiveRecord: 0.0ms | Allocations: 16483)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:20:51 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 35.9ms | Allocations: 14540)
+Completed 200 OK in 38ms (Views: 36.7ms | Allocations: 14980)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:21:15 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 20.4ms | Allocations: 14526)
+Completed 200 OK in 21ms (Views: 20.8ms | Allocations: 14965)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:22:00 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 131)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 3.5ms | Allocations: 3451)
+Completed 200 OK in 5ms (Views: 4.6ms | Allocations: 4663)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:23:20 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 14.7ms | Allocations: 15424)
+Completed 200 OK in 15ms (Views: 15.0ms | Allocations: 15863)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:37:32 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 1.0ms | Allocations: 190)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 13.4ms | Allocations: 3511)
+Completed 200 OK in 19ms (Views: 16.9ms | Allocations: 4714)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:38:27 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 1.0ms | Allocations: 191)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 13.5ms | Allocations: 3511)
+Completed 200 OK in 20ms (Views: 17.4ms | Allocations: 4715)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:38:45 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 1.4ms | Allocations: 193)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 13.4ms | Allocations: 3528)
+Completed 200 OK in 19ms (Views: 17.2ms | Allocations: 4735)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:39:26 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 1.2ms | Allocations: 190)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 15.6ms | Allocations: 3510)
+Completed 200 OK in 22ms (Views: 19.4ms | Allocations: 4712)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:39:37 +0530
+Processing by ChartsController#build_chart as */*
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 2.9ms | Allocations: 3155)
+Completed 200 OK in 4ms (Views: 3.2ms | Allocations: 3695)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:40:24 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 10.5ms | Allocations: 3120)
+Completed 200 OK in 13ms (Views: 11.6ms | Allocations: 3565)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:41:19 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 31.4ms | Allocations: 14973)
+Completed 200 OK in 33ms (Views: 32.3ms | Allocations: 15411)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:41:38 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 35.9ms | Allocations: 15002)
+Completed 200 OK in 38ms (Views: 36.7ms | Allocations: 15440)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:42:02 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 20.4ms | Allocations: 14975)
+Completed 200 OK in 22ms (Views: 21.2ms | Allocations: 15413)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:44:57 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 39)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 3170)
+Completed 200 OK in 6ms (Views: 6.0ms | Allocations: 3798)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:51:57 +0530
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.4ms | Allocations: 373)
+  Rendered layout layouts/application.html.erb (Duration: 86.5ms | Allocations: 17254)
+Completed 500 Internal Server Error in 94ms (ActiveRecord: 0.0ms | Allocations: 20358)
+
+
+  
+ActionView::Template::Error (The asset "application.js" is not present in the asset pipeline.
+):
+     6:     <%= csrf_meta_tags %>
+     7:     <%= csp_meta_tag %>
+     8:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:     <script src="https://code.highcharts.com/highcharts.js"></script>
+    11:     <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    12:   </head>
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:53:20 +0530
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.4ms | Allocations: 373)
+  Rendered layout layouts/application.html.erb (Duration: 79.9ms | Allocations: 34033)
+Completed 500 Internal Server Error in 87ms (ActiveRecord: 0.0ms | Allocations: 37137)
+
+
+  
+ActionView::Template::Error (application.js):
+     6:     <%= csrf_meta_tags %>
+     7:     <%= csp_meta_tag %>
+     8:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:     <script src="https://code.highcharts.com/highcharts.js"></script>
+    11:     <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    12:   </head>
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:54:22 +0530
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.4ms | Allocations: 373)
+  Rendered layout layouts/application.html.erb (Duration: 8.0ms | Allocations: 9014)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms | Allocations: 12117)
+
+
+  
+ActionView::Template::Error (application.js):
+     6:     <%= csrf_meta_tags %>
+     7:     <%= csp_meta_tag %>
+     8:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:     <script src="https://code.highcharts.com/highcharts.js"></script>
+    11:     <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    12:   </head>
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for 127.0.0.1 at 2021-04-29 13:55:52 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+  Rendered layout layouts/application.html.erb (Duration: 12.9ms | Allocations: 5096)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms | Allocations: 5510)
+
+
+  
+ActionView::Template::Error (application.js):
+     6:     <%= csrf_meta_tags %>
+     7:     <%= csp_meta_tag %>
+     8:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:     <script src="https://code.highcharts.com/highcharts.js"></script>
+    11:     <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    12:   </head>
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:00:58 +0530
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.5ms | Allocations: 373)
+  Rendered layout layouts/application.html.erb (Duration: 7.4ms | Allocations: 9015)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms | Allocations: 12118)
+
+
+  
+ActionView::Template::Error (application.js):
+     6:     <%= csrf_meta_tags %>
+     7:     <%= csp_meta_tag %>
+     8:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:     <script src="https://code.highcharts.com/highcharts.js"></script>
+    11:     <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    12:   </head>
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:02:25 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+  Rendered layout layouts/application.html.erb (Duration: 13.6ms | Allocations: 5096)
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.0ms | Allocations: 5510)
+
+
+  
+ActionView::Template::Error (application.js):
+     6:     <%= csrf_meta_tags %>
+     7:     <%= csp_meta_tag %>
+     8:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:     <script src="https://code.highcharts.com/highcharts.js"></script>
+    11:     <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    12:   </head>
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:02:34 +0530
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.4ms | Allocations: 373)
+  Rendered layout layouts/application.html.erb (Duration: 8.8ms | Allocations: 7248)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.0ms | Allocations: 10351)
+
+
+  
+ActionView::Template::Error (application.js):
+     6:     <%= csrf_meta_tags %>
+     7:     <%= csp_meta_tag %>
+     8:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:     <script src="https://code.highcharts.com/highcharts.js"></script>
+    11:     <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    12:   </head>
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:03:15 +0530
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.4ms | Allocations: 373)
+  Rendered layout layouts/application.html.erb (Duration: 3.0ms | Allocations: 2099)
+Completed 200 OK in 10ms (Views: 4.6ms | ActiveRecord: 0.0ms | Allocations: 5258)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:07:21 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+  Rendered layout layouts/application.html.erb (Duration: 27.8ms | Allocations: 6543)
+Completed 200 OK in 30ms (Views: 28.8ms | ActiveRecord: 0.0ms | Allocations: 6989)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:10:47 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+  Rendered layout layouts/application.html.erb (Duration: 37.3ms | Allocations: 5254)
+Completed 200 OK in 46ms (Views: 45.1ms | Allocations: 5700)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:11:17 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.7ms | Allocations: 134)
+  Rendered layout layouts/application.html.erb (Duration: 19.2ms | Allocations: 5804)
+Completed 200 OK in 25ms (Views: 22.7ms | Allocations: 7011)
+
+
+  
+ActionController::RoutingError (No route matches [GET] "/assets/application-977243dfd199331ea47278547db2ecb40980c80bdc41c2f3bc358c20b4ed8c81.js"):
+  
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:14:44 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.5ms | Allocations: 130)
+  Rendered layout layouts/application.html.erb (Duration: 9.4ms | Allocations: 6923)
+Completed 200 OK in 12ms (Views: 11.3ms | Allocations: 8128)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:15:17 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.3ms | Allocations: 129)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | Allocations: 1610)
+Completed 200 OK in 5ms (Views: 4.1ms | Allocations: 2821)
+
+
+Started GET "/components/highstock/highstock.js" for 127.0.0.1 at 2021-04-29 14:15:17 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/components/highstock/highstock.js"):
+  
+Started GET "/components/highstock/highstock.js" for 127.0.0.1 at 2021-04-29 14:15:18 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/components/highstock/highstock.js"):
+  
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:15:33 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.3ms | Allocations: 129)
+  Rendered layout layouts/application.html.erb (Duration: 1.9ms | Allocations: 1621)
+Completed 200 OK in 4ms (Views: 3.0ms | Allocations: 2840)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:16:44 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 129)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | Allocations: 1609)
+Completed 200 OK in 4ms (Views: 2.8ms | Allocations: 2812)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:16:53 +0530
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.5ms | Allocations: 313)
+  Rendered layout layouts/application.html.erb (Duration: 4.6ms | Allocations: 2396)
+Completed 200 OK in 12ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 5566)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:17:32 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 129)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | Allocations: 1610)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 2826)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:18:36 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 129)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | Allocations: 1610)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 2816)
+
+
+Started GET "/exponential.js" for 127.0.0.1 at 2021-04-29 14:18:36 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/exponential.js"):
+  
+Started GET "/exponential.js" for 127.0.0.1 at 2021-04-29 14:18:37 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/exponential.js"):
+  
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:18:47 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 129)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | Allocations: 1612)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 2833)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:20:25 +0530
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.7ms | Allocations: 313)
+  Rendered layout layouts/application.html.erb (Duration: 12.7ms | Allocations: 9288)
+Completed 200 OK in 19ms (Views: 14.7ms | ActiveRecord: 0.0ms | Allocations: 12446)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:21:08 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 129)
+  Rendered layout layouts/application.html.erb (Duration: 18.8ms | Allocations: 1612)
+Completed 200 OK in 31ms (Views: 24.5ms | ActiveRecord: 0.0ms | Allocations: 2828)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:23:24 +0530
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.4ms | Allocations: 313)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 2392)
+Completed 200 OK in 12ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 5551)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:27:54 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.5ms | Allocations: 195)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | Allocations: 1671)
+Completed 200 OK in 6ms (Views: 4.2ms | ActiveRecord: 0.0ms | Allocations: 2887)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:28:51 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.5ms | Allocations: 199)
+  Rendered layout layouts/application.html.erb (Duration: 3.4ms | Allocations: 1676)
+Completed 200 OK in 8ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 2925)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:29:18 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 1.2ms | Allocations: 222)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 1697)
+Completed 200 OK in 13ms (Views: 11.0ms | ActiveRecord: 0.0ms | Allocations: 2903)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:29:40 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.4ms | Allocations: 223)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | Allocations: 1698)
+Completed 200 OK in 3ms (Views: 2.8ms | Allocations: 2909)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:30:05 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 1.1ms | Allocations: 237)
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 1713)
+Completed 200 OK in 12ms (Views: 10.0ms | Allocations: 2925)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:30:31 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 1.0ms | Allocations: 234)
+  Rendered layout layouts/application.html.erb (Duration: 6.4ms | Allocations: 1709)
+Completed 200 OK in 13ms (Views: 10.3ms | Allocations: 2912)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:30:48 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.9ms | Allocations: 196)
+  Rendered layout layouts/application.html.erb (Duration: 8.4ms | Allocations: 1671)
+Completed 200 OK in 15ms (Views: 12.3ms | Allocations: 2874)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:34:02 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.9ms | Allocations: 190)
+  Rendered layout layouts/application.html.erb (Duration: 6.2ms | Allocations: 1666)
+Completed 200 OK in 12ms (Views: 10.1ms | Allocations: 2877)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:36:04 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 1.0ms | Allocations: 217)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 1692)
+Completed 200 OK in 12ms (Views: 10.3ms | Allocations: 2895)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:46:57 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.3ms | Allocations: 189)
+  Rendered layout layouts/application.html.erb (Duration: 1.9ms | Allocations: 1664)
+Completed 200 OK in 4ms (Views: 3.1ms | Allocations: 2867)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:54:12 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 1.0ms | Allocations: 243)
+  Rendered layout layouts/application.html.erb (Duration: 5.2ms | Allocations: 1718)
+Completed 200 OK in 10ms (Views: 8.2ms | Allocations: 2921)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 14:54:41 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 1.1ms | Allocations: 232)
+  Rendered layout layouts/application.html.erb (Duration: 6.4ms | Allocations: 1707)
+Completed 200 OK in 13ms (Views: 11.0ms | Allocations: 2910)
+
+
+Started GET "/" for ::1 at 2021-04-29 14:59:45 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.5ms | Allocations: 237)
+  Rendered layout layouts/application.html.erb (Duration: 3.1ms | Allocations: 1754)
+Completed 200 OK in 6ms (Views: 4.7ms | Allocations: 2913)
+
+
+Started GET "/" for ::1 at 2021-04-29 15:00:03 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.4ms | Allocations: 59)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 1302)
+Completed 200 OK in 7ms (Views: 6.2ms | Allocations: 1748)
+
+
+Started GET "/" for ::1 at 2021-04-29 15:11:22 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.4ms | Allocations: 234)
+  Rendered layout layouts/application.html.erb (Duration: 2.1ms | Allocations: 1721)
+Completed 200 OK in 4ms (Views: 3.5ms | Allocations: 2928)
+
+
+Started GET "/" for ::1 at 2021-04-29 15:11:42 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 59)
+  Rendered layout layouts/application.html.erb (Duration: 3.4ms | Allocations: 1309)
+Completed 200 OK in 5ms (Views: 4.3ms | Allocations: 1753)
+
+
+Started GET "/" for ::1 at 2021-04-29 15:13:53 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.3ms | Allocations: 59)
+  Rendered layout layouts/application.html.erb (Duration: 4.4ms | Allocations: 1302)
+Completed 200 OK in 7ms (Views: 5.5ms | Allocations: 1744)
+
+
+Started GET "/" for ::1 at 2021-04-29 15:17:18 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 59)
+  Rendered layout layouts/application.html.erb (Duration: 2.5ms | Allocations: 1302)
+Completed 200 OK in 4ms (Views: 3.2ms | Allocations: 1744)
+
+
+Started GET "/" for ::1 at 2021-04-29 15:21:05 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.3ms | Allocations: 59)
+  Rendered layout layouts/application.html.erb (Duration: 2.4ms | Allocations: 1302)
+Completed 200 OK in 4ms (Views: 3.1ms | Allocations: 1743)
+
+
+Started GET "/" for ::1 at 2021-04-29 15:29:44 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 59)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | Allocations: 1302)
+Completed 200 OK in 3ms (Views: 2.2ms | Allocations: 1743)
+
+
+Started GET "/" for ::1 at 2021-04-29 15:30:05 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 1.2ms | Allocations: 231)
+  Rendered layout layouts/application.html.erb (Duration: 10.3ms | Allocations: 1706)
+Completed 200 OK in 17ms (Views: 14.7ms | Allocations: 2913)
+
+
+Started GET "/" for ::1 at 2021-04-29 15:30:35 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 22.3ms | Allocations: 4550)
+  Rendered layout layouts/application.html.erb (Duration: 22.8ms | Allocations: 4619)
+Completed 500 Internal Server Error in 29ms (Allocations: 5803)
+
+
+  
+ActionView::Template::Error (undefined method `json' for [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60]:Array
+Did you mean?  join):
+    32:     },
+    33: 
+    34:     series: [{
+    35:         data: <%=raw @graph_data.json%>,
+    36:         type: 'column'
+    37:     }]
+    38: 
+  
+app/views/charts/build_chart.html.erb:35
+Started GET "/" for ::1 at 2021-04-29 15:31:08 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 1.4ms | Allocations: 236)
+  Rendered layout layouts/application.html.erb (Duration: 10.2ms | Allocations: 1751)
+Completed 200 OK in 17ms (Views: 14.9ms | Allocations: 2961)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 16:30:21 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 50)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | Allocations: 1373)
+Completed 200 OK in 3ms (Views: 2.4ms | Allocations: 2079)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 16:32:05 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 47)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | Allocations: 1351)
+Completed 200 OK in 4ms (Views: 2.4ms | Allocations: 2055)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 16:34:33 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 47)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 1351)
+Completed 200 OK in 3ms (Views: 2.2ms | Allocations: 2023)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 16:36:07 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 47)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | Allocations: 1370)
+Completed 200 OK in 3ms (Views: 2.1ms | Allocations: 2107)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 16:38:32 +0530
+Processing by ChartsController#build_chart as HTML
+Completed 500 Internal Server Error in 1ms (Allocations: 1179)
+
+
+  
+SyntaxError (/home/techversant/aptana_studio_projet/create_chart/app/models/graph_chart.rb:11: syntax error, unexpected instance variable
+    self.@graph_plotting_values   
+         ^~~~~~~~~~~~~~~~~~~~~~
+):
+  
+app/models/graph_chart.rb:11: syntax error, unexpected instance variable
+app/models/graph_chart.rb:11: syntax error, unexpected instance variable
+app/models/graph_chart.rb:11: syntax error, unexpected instance variable
+app/controllers/charts_controller.rb:6:in `build_chart'
+Started GET "/" for 127.0.0.1 at 2021-04-29 16:38:50 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 47)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | Allocations: 1370)
+Completed 200 OK in 3ms (Views: 2.1ms | Allocations: 2108)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 16:44:57 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 62)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | Allocations: 1385)
+Completed 200 OK in 3ms (Views: 2.4ms | Allocations: 2124)
+
+
+Started GET "/accounts/sign_in" for 127.0.0.1 at 2021-04-29 16:47:59 +0530
+  
+ActionController::RoutingError (No route matches [GET] "/accounts/sign_in"):
+  
+Started GET "/" for 127.0.0.1 at 2021-04-29 16:51:55 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 62)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | Allocations: 1366)
+Completed 200 OK in 4ms (Views: 2.5ms | Allocations: 2085)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:19:57 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.3ms | Allocations: 61)
+  Rendered layout layouts/application.html.erb (Duration: 2.1ms | Allocations: 1384)
+Completed 200 OK in 4ms (Views: 2.8ms | Allocations: 2109)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:20:45 +0530
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.5ms | Allocations: 448)
+  Rendered layout layouts/application.html.erb (Duration: 3.9ms | Allocations: 2516)
+Completed 200 OK in 11ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 5740)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:21:19 +0530
+Processing by ChartsController#build_chart as HTML
+Completed 500 Internal Server Error in 2ms (Allocations: 2057)
+
+
+  
+NameError (undefined local variable or method `data' for GraphChart:Class):
+  
+app/models/graph_chart.rb:11:in `get_graph_chart_data'
+app/controllers/charts_controller.rb:8:in `build_chart'
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:21:43 +0530
+Processing by ChartsController#build_chart as HTML
+Completed 500 Internal Server Error in 1ms (Allocations: 1189)
+
+
+  
+SyntaxError (/home/techversant/aptana_studio_projet/create_chart/app/models/graph_chart.rb:11: syntax error, unexpected class variable
+...  data. @@graph_plotting_values   
+...        ^~~~~~~~~~~~~~~~~~~~~~~
+):
+  
+app/models/graph_chart.rb:11: syntax error, unexpected class variable
+app/models/graph_chart.rb:11: syntax error, unexpected class variable
+app/models/graph_chart.rb:11: syntax error, unexpected class variable
+app/controllers/charts_controller.rb:7:in `build_chart'
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:22:09 +0530
+Processing by ChartsController#build_chart as HTML
+Completed 500 Internal Server Error in 1ms (Allocations: 1164)
+
+
+  
+SyntaxError (/home/techversant/aptana_studio_projet/create_chart/app/models/graph_chart.rb:12: syntax error, unexpected class variable
+...  data. @@graph_plotting_values   
+...        ^~~~~~~~~~~~~~~~~~~~~~~
+):
+  
+app/models/graph_chart.rb:12: syntax error, unexpected class variable
+app/models/graph_chart.rb:12: syntax error, unexpected class variable
+app/models/graph_chart.rb:12: syntax error, unexpected class variable
+app/controllers/charts_controller.rb:7:in `build_chart'
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:22:18 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 61)
+  Rendered layout layouts/application.html.erb (Duration: 2.5ms | Allocations: 1384)
+Completed 200 OK in 4ms (Views: 3.3ms | Allocations: 2111)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:22:41 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 50)
+  Rendered layout layouts/application.html.erb (Duration: 3.9ms | Allocations: 1374)
+Completed 200 OK in 5ms (Views: 4.5ms | Allocations: 2089)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:22:58 +0530
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.6ms | Allocations: 432)
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 2500)
+Completed 200 OK in 12ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 5714)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:33:53 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 47)
+  Rendered layout layouts/application.html.erb (Duration: 2.2ms | Allocations: 1371)
+Completed 200 OK in 3ms (Views: 2.9ms | Allocations: 2058)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:37:55 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 67)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | Allocations: 1390)
+Completed 200 OK in 3ms (Views: 2.4ms | Allocations: 2118)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:43:22 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 61)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | Allocations: 1366)
+Completed 200 OK in 4ms (Views: 2.8ms | Allocations: 2123)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:57:20 +0530
+Processing by ChartsController#build_chart as HTML
+Completed 500 Internal Server Error in 3ms (Allocations: 2063)
+
+
+  
+NoMethodError (undefined method `attr_accesor' for GraphChart:Class
+Did you mean?  attr_accessor
+               mattr_accessor
+               cattr_accessor):
+  
+app/models/graph_chart.rb:3:in `<class:GraphChart>'
+app/models/graph_chart.rb:1:in `<main>'
+app/controllers/charts_controller.rb:7:in `build_chart'
+Started GET "/" for 127.0.0.1 at 2021-04-29 17:57:51 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 61)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 1385)
+Completed 200 OK in 3ms (Views: 2.3ms | Allocations: 2093)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 18:01:16 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 61)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 1365)
+Completed 200 OK in 3ms (Views: 2.2ms | Allocations: 2062)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 18:04:41 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 61)
+  Rendered layout layouts/application.html.erb (Duration: 2.3ms | Allocations: 1384)
+Completed 200 OK in 3ms (Views: 2.8ms | Allocations: 2061)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 18:28:18 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 47)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | Allocations: 1351)
+Completed 200 OK in 3ms (Views: 2.0ms | Allocations: 2041)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 18:28:46 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 62)
+  Rendered layout layouts/application.html.erb (Duration: 2.2ms | Allocations: 1376)
+Completed 200 OK in 4ms (Views: 3.0ms | Allocations: 2039)
+
+
+Started GET "/" for 127.0.0.1 at 2021-04-29 18:29:11 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.3ms | Allocations: 59)
+  Rendered layout layouts/application.html.erb (Duration: 4.5ms | Allocations: 1302)
+Completed 200 OK in 7ms (Views: 5.6ms | Allocations: 1744)
+
+
+Started GET "/" for ::1 at 2021-04-29 18:43:31 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 59)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | Allocations: 1302)
+Completed 200 OK in 2ms (Views: 1.7ms | Allocations: 1744)
+
+
+Started GET "/" for ::1 at 2021-04-29 18:43:34 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 59)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | Allocations: 1302)
+Completed 200 OK in 2ms (Views: 1.9ms | Allocations: 1744)
+
+
+Started GET "/" for ::1 at 2021-04-29 18:44:28 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.1ms | Allocations: 59)
+  Rendered layout layouts/application.html.erb (Duration: 2.0ms | Allocations: 1303)
+Completed 200 OK in 3ms (Views: 2.4ms | Allocations: 1750)
+
+
+Started GET "/" for ::1 at 2021-04-29 18:55:49 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.2ms | Allocations: 59)
+  Rendered layout layouts/application.html.erb (Duration: 2.9ms | Allocations: 1302)
+Completed 200 OK in 5ms (Views: 3.6ms | Allocations: 1744)
+
+
+Started GET "/" for ::1 at 2021-04-29 18:57:32 +0530
+Processing by ChartsController#build_chart as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering charts/build_chart.html.erb within layouts/application
+  Rendered charts/build_chart.html.erb within layouts/application (Duration: 0.3ms | Allocations: 59)
+  Rendered layout layouts/application.html.erb (Duration: 5.9ms | Allocations: 1321)
+Completed 200 OK in 8ms (Views: 7.1ms | Allocations: 1766)
+
+

@@ -1,0 +1,49 @@
+
+<div class="main">
+   <div class="header">
+      <div class="heaser_text"> Graph Chart </div>
+   </div>
+   
+   <div class="chart_section">
+   	  <div id="display_graph_section" class="graph_view_section">
+   	 	
+   	  </div>       
+   </div>
+</div>
+<script>
+
+Highcharts.chart('display_graph_section', {
+
+    chart: {
+        height: (9 / 16 * 100) + '%' // 16:9 ratio
+    },
+
+    title: {
+        text: 'monthly Graph chart'
+    },
+
+    subtitle: {
+        text: ''
+    },
+
+    xAxis: {
+        categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+            'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+    },
+
+    series: [{
+        data: <%=raw @graph_data.to_json%>,
+        type: 'column'
+    }]
+
+});
+</script>
+
+
+
+
+
+
+
+
+
